@@ -1,4 +1,4 @@
-🍽️ Swiggy Restaurant Data Analysis Using SQL
+🍽️  Restaurant Data Analysis Using SQL
 
 Tools: MySQL | SQL | Data Analysis  
 Dataset: 61,425 Restaurant Records | 534 City Labels | 107 Cuisine Categories  
@@ -6,7 +6,7 @@ SQL Queries: 25
 
 📌 Project Overview
 
-Analyzed 61,425 Swiggy restaurant records using SQL to identify restaurant distribution, popular cuisines, pricing trends, customer ratings, and business opportunities.
+Analyzed 61,425  restaurant records using SQL to identify restaurant distribution, popular cuisines, pricing trends, customer ratings, and business opportunities.
 
 Applied SQL concepts including `GROUP BY`, `HAVING`, aggregate functions, subqueries, and `DENSE_RANK()` window functions.
 
@@ -67,7 +67,7 @@ Applied SQL concepts including `GROUP BY`, `HAVING`, aggregate functions, subque
 
 🎯 Conclusion
 
-The analysis reveals that **Bangalore leads in restaurant availability, North Indian cuisine dominates listings, and affordable restaurants represent the majority of records**. Hyderabad shows the highest cumulative rating activity.
+The analysis reveals that Bangalore leads in restaurant availability, North Indian cuisine dominates listings, and affordable restaurants represent the majority of records. Hyderabad shows the highest cumulative rating activity.
 
 These findings provide insights into restaurant supply, pricing, and customer rating patterns while highlighting the importance of data quality in business analysis.
 
